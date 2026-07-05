@@ -137,4 +137,4 @@ print("El repositorio se enfoca en la documentación del entorno, no en la ejecu
 ## 📚 Contexto formativo o motivación del proyecto
 Este proyecto surge como parte de una actividad del curso "Análisis de Datos e IA" impartido por el INAEM, Bloque II. El objetivo de la actividad era investigar a fondo una librería clave en el ámbito de la Ciencia de Datos y la Inteligencia Artificial, y presentar una demostración práctica. La elección recayó en TensorFlow, dada su relevancia y complejidad, lo que llevó a la exploración detallada de su instalación y configuración del entorno, especialmente en lo referente a la compatibilidad de versiones con Python y la aceleración por hardware.
 
-<p align="center">Desarrollado por @migueljerico · 2026</p>
+<p align="center">Desarrollado por @migueljerico y documentado mediante la app Asistente de IA para Publicar Repositorios · 2026</p>
